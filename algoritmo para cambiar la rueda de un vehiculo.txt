@@ -1,0 +1,31 @@
+algoritmo para cambiar la rueda de un vehiculo:
+
+-herramientas a utilizar:
+	-llave de cruz	
+	-gata hidraulica
+	-rueda de repuesto
+	-rueda paneada
+	-pernos rueda
+	
+-sacar herramientas
+-colocar la gata hidraulica bajo el auto:
+	-levantar el auto utilizando la gata hidraulica
+	
+-con la llave de cruz, girar contra las manillas del reloj
+	-remover pernos de la rueda paneada
+	-extraer rueda paneada
+	
+-colocar rueda de repuesto en el sitio de la paneada:
+	-con la llave de cruz, ajustar pernos en la posicion
+	
+-usar la gata hidraulica para bajar el auto
+
+- guardar herramientas
+
+
+Entrada: -llave de cruz	-gata hidraulica-rueda de repuesto-rueda paneada-pernos rueda
+
+Proceso: -sacar herramientas-colocar la gata hidraulica bajo el auto-levantar el auto utilizando la gata hidraulica-on la llave de cruz, girar contra las manillas del reloj-remover pernos de la rueda paneada-extraer rueda paneada-colocar rueda de repuesto en el sitio de la paneada-con la llave de cruz, ajustar pernos en la posicion--usar la gata hidraulica para bajar el auto- guardar herramientas
+
+Resultado: cambio de rueda de un vehiculo
+	
