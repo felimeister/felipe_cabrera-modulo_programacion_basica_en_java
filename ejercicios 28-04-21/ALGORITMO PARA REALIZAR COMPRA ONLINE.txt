@@ -1,0 +1,76 @@
+ALGORITMO PARA REALIZAR COMPRA ONLINE
+
+Ingresar a sitio web.
+
+Si no existe cuenta:
+Crear cuenta
+ingresar datos:
+	-nombre usuario (varchar)
+	-nombre completo(string)
+	-direccion (varchar)
+	-telefono (int)
+	-rut (varchar)
+	-contraseña(varchar)
+
+sino,
+Logear con cuenta creada.
+
+------
+Realizar login:
+
+	-ingresar usuario
+	-ingresar contraseña 
+
+navegar a producto
+seleccionar producto
+seleccionar cantidad de producto
+
+
+agregar a canasta
+
+seleccionar pagar 
+
+completar datos receptor
+	-nombre receptor(string)
+	-direccion de entrega(varchar)
+	-telefono receptor(int)
+	-rut receptor(varchar)
+
+opciones de pago
+	-Seleccionar tipo de pago
+		-transferencia
+		-pago debito
+		-pago credito
+ 
+confirmar compra
+
+direccionado a pagina bancaria
+
+ingresar datos pagina bancaria
+	-rut(varchar)
+	-contraseñabanco(varchar)
+
+
+comprobacion de pago
+
+retorno a sitio web de compras
+
+finalizar compra
+	-compra exitosa	
+	-compra fallida
+si compra exitosa = recibo boleta electronica
+
+-------------------
+
+Variables:-nombre usuario (varchar)-nombre completo(string)-direccion (varchar)-telefono (int)-rut (varchar)-contraseña(varchar)-nombre receptor(string)-direccion de entrega(varchar)-telefono receptor(int)-rut receptor(varchar)-contraseñabanco(varchar)-producto(varchar)-cantidad producto(int)
+
+Constantes: sitio web
+
+Entrada: Pagina web- -nombre usuario (varchar)-nombre completo(string)-direccion (varchar)-telefono (int)-rut (varchar)-contraseña(varchar)-producto(varchar)-cantidad producto(int)-boton canasta-boton pagar -datos receptor- seleccionar opcion de pago-completar datos bancarios
+
+Proceso: Ingresar a sitio web - Crear cuenta - Realizar login - navegar a producto - seleccionar producto - seleccionar cantidad de producto - agregar a canasta - seleccionar pagar - completar datos receptor - opciones de pago -Seleccionar tipo de pago - confirmar compra - direccionado a pagina bancaria-ingresar datos pagina bancaria - retorno a sitio web de compras- comprobacion de pago - finalizar compra-compra exitosa-compra fallida-recibo boleta electronica
+
+
+
+Salida: Boleta electrónica, producto(s)
+-------------------------------------------------------

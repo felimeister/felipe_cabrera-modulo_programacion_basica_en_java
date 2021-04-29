@@ -1,0 +1,15 @@
+Algoritmo rendimiento km *lt
+
+Variables:
+
+cantidadCombustible = litros(float)
+cantidadKilometros = kilometros (float)
+rendimiento:cantidadKilometros /cantidadCombustible (float)
+
+constantes:
+vehiculo = i(varchar)
+
+entrada: cantidadCombustible , cantidadKilometros
+	
+proceso: cantidadKilometros /cantidadCombustible 
+salida: rendimiento de automovil en kilometros por litro
