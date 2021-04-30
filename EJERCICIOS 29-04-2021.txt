@@ -1,0 +1,95 @@
+
+EJERCICIO 1
+-----------------
+
+Entradas: remuneraciones, meses, años, promedios, reducción, bono, cantidad de meses.
+
+Variable int;
+remNoviembre2019
+remDiciembre2019
+remEnero2020
+remFebrero2020
+remMarzo2020
+remAbril2020
+remNoviembre2020
+remDiciembre2020
+remEnero2021
+remFebrero2021
+remMarzo2021
+remAbril2021
+promPeriodo1
+promPeriodo2
+reduccionRem
+
+Constante int;
+cantidadBono=500.000
+cantidadMeses=6
+
+Proceso:
+promPeriodo1 = (remNoviembre2019 + remDiciembre2019 + remEnero2020 + remFebrero2020 + remMarzo2020 + remAbril2020) / cantidadMeses
+promPeriodo2 = (remNoviembre2020 + remDiciembre2020 + remEnero2021 + remFebrero2021 + remMarzo2021 + remAbril2021) / cantidadMeses
+reduccionRem = (promPeriodo2*100)/promPeriodo1
+
+Si reduccionRem => 20 ,entonces es acreedor de un bono de cantidadBono
+
+Salida: Es o no acreedor de un Bono
+
+
+EJERCICIO 2
+----------------------------------------------------------
+
+votantes string
+voto string
+candidatos string
+lugar de votación string
+vocal de mesa string
+inspector string
+numero de mesa string
+region string
+comuna string
+
+
+banco
+
+cliente string
+empleado string
+productos string
+sucursal string
+capital int
+
+
+instagram 1 ( usuario)
+
+cuenta de usuario string
+seguidores string
+comentario string
+reaccion string
+historia int
+publicación int
+
+instagram 2 ( vista modo empresa)
+
+cuenta de usuario string
+multimedia string
+entorno grafico string
+
+
+EJERCICIO 3
+---------------------------
+
+- fumar es dañino para el organismo
+- el agua es transparente
+- el mar esta en constante movimiento
+- el viernes viene antes del jueves
+- los veganos comen carne
+- el azucar es dulce
+
+
+COMENTARIOS DEL DIA
+-----------------
+realizamos un algoritmo mas complejo con operaciones, analizamos la teoria de conjuntos desarrollando un ejercicio identificando cada conjunto segun un contexto y la variable de cada conjunto y luego vimos las proposiciones simples, donde salieron cosas divertidas.
+
+
+
+
+
