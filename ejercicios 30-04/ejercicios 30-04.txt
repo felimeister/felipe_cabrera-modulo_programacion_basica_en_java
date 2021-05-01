@@ -1,0 +1,52 @@
+
+
+ejercicio 2
+
+proposicion 1 = F
+proposicion 2 = 
+
+
+
+a = 2 b=7 c = 5 d = -10
+1) A < B and c < d
+Evaluación: 2 < 7 and 5 < -10
+Evaluación: True and False
+Resultado: False
+
+2) (A + C ) > B or d > a
+Evaluación: (2 + 5) > 7 or -10 > 2
+Evaluación: False or False
+Resultado: False
+
+3) NOT(d < a and c > b)
+Evaluación: NOT(-10 < 2 and 5 > 7)
+Evaluación: NOT(True and False)
+Evaluación: NOT(False)
+Resultado: True
+
+4) 1 si y solo si 3 (Bicondicional)
+Evaluación: False si y solo si True
+Lógica: Si ambos son False o si ambos son True, es True. De lo contrario (alternados), tienen valor False
+Resultado: Alternados (P = 1, Q = 0, P <->Q = False) False
+
+5) Si 2 entonces 4
+Evaluación: Si False entonces False
+Lógica: Es como la típica causa-consecuencia (Condicion material). Según tablas de verdad, es falso sólo cuando Q es falso
+Resultado: Ambos iguales (P = 0, Q = 0, P -> Q = 1 = True) True
+
+6) Si 3 entonces no 1
+Evaluación: Si True entonces no False
+Evaluación: Si True entonces True
+Lógica: Condicion material, ambos iguales
+Resultado: Ambos iguales (P = 1, Q = 1, P -> Q = 1 = True) True
+Resultado: True
+
+-----------------------------
+
+
+comentarios:
+
+hoy aprendimos sobre las proposiciones compuestas y la tabla de verdades, usando la logica de los conectores y las bicondicionalidades. tambien realizamos un diagrama algoritmico y los usos graficos de los items.
+
+
+
