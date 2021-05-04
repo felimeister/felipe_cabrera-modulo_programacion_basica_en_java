@@ -1,0 +1,8 @@
+El bucle while es un ciclo repetitivo basado en los resultados de una expresión lógica; se encuentra en la mayoría de los lenguajes de programación estructurados. El propósito es repetir un bloque de código mientras una condición se mantenga verdader
+
+Condición
+La condición ha de ser una sentencia que devuelva un valor booleano
+
+generalmente se utilizan sentencias comparativas (igual, diferente, menor o igual, mayor o igual, menor y mayor)
+--------------------------------------------------
+
