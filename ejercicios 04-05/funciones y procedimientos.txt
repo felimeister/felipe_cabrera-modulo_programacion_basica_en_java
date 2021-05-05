@@ -1,0 +1,5 @@
+Funciones
+Las funciones son un conjunto de líneas de código (instrucciones), encapsulados en un bloque, usualmente reciben parámetros, cuyos valores utilizan para efectuar operaciones y adicionalmente retornan un valor con la ejecución return.
+ 
+Procedimientos
+Los procedimientos son básicamente un conjunto de instrucciones que se ejecutan sin retornar ningún valor.
